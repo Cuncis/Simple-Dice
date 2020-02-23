@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Simple Dice</string>
+    <string name="action_settings">Settings</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+    <string name="email">karang.reksa@gmail.com</string>
+    <string name="website">zerodev.tech</string>
+</resources>
